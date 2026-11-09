@@ -1,0 +1,10 @@
+Because it is easy to link people together with paths between them. 
+A list doesn't work well for this because you need to keep track 
+of friends, and lists don't do too well at that. If anything you 
+would need a dictionary to keep track of all of that information.
+Trees don't work well becuase we would need to link back up the tree, 
+and people at the bottom may not know the people at the top, and a 
+tree would suggest that they all know each other, so that doesn't
+work either.
+It was easy to do it becuase it was all available in one class that 
+can be easlily called. 
